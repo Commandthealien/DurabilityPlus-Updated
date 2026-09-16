@@ -6,12 +6,13 @@
   "description": "${description}",
   "authors": [
     "ddeeddii",
-    "N4TH4NOT"
+    "N4TH4NOT",
+    "Commandthealiens"
   ],
   "contact": {
     "homepage": "",
-    "sources": "https://github.com/N4TH4NOT/DurabilityPlus",
-    "issues": "https://github.com/N4TH4NOT/DurabilityPlus/issues"
+    "sources": "https://github.com/Commandthealien/DurabilityPlus-Updated",
+    "issues": "https://github.com/Commandthealien/DurabilityPlus-Updated/issues"
   },
   "license": "MIT",
   "icon": "assets/${id}/icon.png",
